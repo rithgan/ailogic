@@ -1,0 +1,17 @@
+Develop a program that implements user authentication, allowing users to perform the following actions after successfully logging in:
+ 
+	1.	User Creation: The logged-in user can create new users.(NAME, Email, Phone, Profile picters, Password)
+	2.	User Update: The logged-in user can update the details of any user.
+	3.	User Deletion: The logged-in user can delete other users but is restricted from deleting their own account.
+ 
+File authenticate shud me express validation 
+Once development is completed, the project should be pushed to a public Git repository. The Git repository link should then be shared for download and review.
+ 
+Key Requirements:
+ 
+	•	Implement user login functionality.
+	•	Allow creation, updating, and deletion of users.
+	•	Restrict users from deleting their own accounts.
+	•	Push the complete project to a public Git repository and share the download link.
+ 
+Time to Completion: 1 hour and 30 minutes
